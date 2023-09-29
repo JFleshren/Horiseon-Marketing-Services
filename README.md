@@ -15,8 +15,10 @@ The website can be used to view services offered and the benefits to taking adva
 ## Credits
 
 The starter code that was used all came from the repository at https://github.com/coding-boot-camp/urban-octo-telegram.bot
+
 ## Licenses
 
+MIT License
 
 ## Deployed Application
 
