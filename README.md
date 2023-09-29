@@ -4,7 +4,7 @@
 
 The goal of this website was to learn how to properly refactor code, without changing the end product. The language needed to be simplified, and any redudancies removed. If a random person were given this code, it's important they could easily understand it.
 
-##Installation
+## Installation
 
 N/A
 
