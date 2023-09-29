@@ -22,7 +22,7 @@ MIT License
 
 ## Deployed Application
 
-https://github.com/JFleshren/Horiseon-Marketing-Services/blob/245fa32bbd6fe7f229c1c73dae8eac5793ce6ffe/.github/workflows/static.yml
+https://jfleshren.github.io/Horiseon-Marketing-Services/
 
 ##Screenshots
 
