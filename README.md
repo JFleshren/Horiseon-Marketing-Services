@@ -24,6 +24,10 @@ The starter code that was used all came from the repository at https://github.co
 
 ##Screenshots
 
-![Screenshot](/assets/images/Screenshot(4).png)
-![Screenshot](/assets/images/Screenshot(5).png)
-![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(6).png)https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(6).png
+![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(4).png)
+
+
+![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(5).png)
+
+
+![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(6).png)
