@@ -24,6 +24,6 @@ The starter code that was used all came from the repository at https://github.co
 
 ##Screenshots
 
-![Screenshot]
-![Screenshot]
-![Screenshot]
+![Screenshot](/assets/images/Screenshot(4).png)
+![Screenshot](/assets/images/Screenshot(5).png)
+![Screenshot](/assets/images/Screenshot(6).png)
