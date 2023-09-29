@@ -24,10 +24,10 @@ The starter code that was used all came from the repository at https://github.co
 
 ##Screenshots
 
-![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(4).png)
+![(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(4).png)
 
 
-![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(5).png)
+![(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(5).png)
 
 
-![Screenshot][(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(6).png)
+![(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(6).png)
