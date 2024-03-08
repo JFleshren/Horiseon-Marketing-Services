@@ -24,7 +24,7 @@ MIT License
 
 https://jfleshren.github.io/Horiseon-Marketing-Services/
 
-##Screenshots
+## Screenshots
 
 ![(/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot(6).png)](https://github.com/JFleshren/Horiseon-Marketing-Services/blob/main/assets/images/Screenshot%20(4).png)
 
